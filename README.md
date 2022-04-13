@@ -1,4 +1,4 @@
-# Algorithmic-Trading-Bots | Machine Learning Models
+# Algorithmic Trading Bots | Machine Learning Models
 
 This is a machine learning template that can be adapted to build unique algorithmic trading bots. 
 
